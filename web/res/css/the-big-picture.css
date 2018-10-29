@@ -1,0 +1,24 @@
+
+*{  margin: 0 auto;
+	font: 'Arial';
+}
+
+.conteudo{ 
+    height: 350px;
+    width: 450px;
+    margin-top: 126px;
+}
+
+input{
+	margin:  20px;
+	font-weight: 800; 
+	}
+
+#enviar{
+	margin-top: 2%;
+	margin-left: 35%
+}
+
+.nav-item{
+	margin-left: 20%;
+}
